@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bestingems/static/css/main.503c0c83.css",
+    "main.js": "/bestingems/static/js/main.22c8a9dd.js",
+    "static/js/453.3eee3d60.chunk.js": "/bestingems/static/js/453.3eee3d60.chunk.js",
+    "index.html": "/bestingems/index.html",
+    "main.503c0c83.css.map": "/bestingems/static/css/main.503c0c83.css.map",
+    "main.22c8a9dd.js.map": "/bestingems/static/js/main.22c8a9dd.js.map",
+    "453.3eee3d60.chunk.js.map": "/bestingems/static/js/453.3eee3d60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.503c0c83.css",
+    "static/js/main.22c8a9dd.js"
+  ]
+}
